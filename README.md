@@ -1,4 +1,4 @@
-# Breast-Cancer-Classification-with-Logistic-Regression-and-LDA
+# Breast Cancer Classification with Logistic Regression and LDA
 
 This project is part of the University of Colorado Boulder Master of Science (MSc) in Artificial Intelligence program and demonstrates classification techniques for predicting whether a breast tumor is malignant or benign using the Wisconsin Breast Cancer dataset.
 
